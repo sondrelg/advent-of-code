@@ -1,0 +1,6 @@
+[workspace]
+
+members = ["day*",]
+
+[workspace.dependencies]
+rayon = "1.6.1"
