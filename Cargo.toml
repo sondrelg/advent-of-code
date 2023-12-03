@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "v23",
+]
+
+[workspace.dependencies]
+rayon = "1.6.1"
+clap = "4.4.6"
+dotenvy = "0.15.7"
